@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<color name="white">#FFFFFFFF</color>
+	<color name="bg_grey_white">#FFF8F3F0</color>
+	<color name="bg_light_greyish_white">#FFF7F7F7</color>
+	
+	<color name="font_deep_grey">#FF363636</color>
+	<color name="font_light_grey">#FF707070</color>
+	<color name="font_deep_green">#FF005826</color>
+	<color name="font_green">#FF38a535</color>
+	
+	<color name="titlebar">#FFfafafa</color>
+	<color name="titlebar_bottom_line_1">#FFd7d7d7</color>
+	<color name="titlebar_bottom_line_2">#FF64c45f</color>
+</resources>

@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/apps/!svn/ver/903/price/res/layout
+END
+member_manager_child_account.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/apps/!svn/ver/896/price/res/layout/member_manager_child_account.xml
+END
+login_account.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/apps/!svn/ver/900/price/res/layout/login_account.xml
+END
+main.xml
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/apps/!svn/ver/887/price/res/layout/main.xml
+END
+main_items.xml
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/apps/!svn/ver/884/price/res/layout/main_items.xml
+END
+member.xml
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/apps/!svn/ver/902/price/res/layout/member.xml
+END
+login.xml
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/apps/!svn/ver/902/price/res/layout/login.xml
+END
+login1.xml
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/apps/!svn/ver/903/price/res/layout/login1.xml
+END
+member2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/apps/!svn/ver/896/price/res/layout/member2.xml
+END
+member_find_password.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/apps/!svn/ver/903/price/res/layout/member_find_password.xml
+END
+member_modify_info.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/apps/!svn/ver/896/price/res/layout/member_modify_info.xml
+END
+member_affirm_buy.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/apps/!svn/ver/896/price/res/layout/member_affirm_buy.xml
+END
+login_mobile.xml
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/apps/!svn/ver/896/price/res/layout/login_mobile.xml
+END
+member_login.xml
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/apps/!svn/ver/896/price/res/layout/member_login.xml
+END

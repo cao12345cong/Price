@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/apps/!svn/ver/893/price/src/com/ssy/price/entity
+END
+Quotes.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/apps/!svn/ver/893/price/src/com/ssy/price/entity/Quotes.java
+END
+SupplyPromotion.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/apps/!svn/ver/893/price/src/com/ssy/price/entity/SupplyPromotion.java
+END
+QuotesMarket.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/apps/!svn/ver/893/price/src/com/ssy/price/entity/QuotesMarket.java
+END
+Forecast.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/apps/!svn/ver/893/price/src/com/ssy/price/entity/Forecast.java
+END
+Season.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/apps/!svn/ver/893/price/src/com/ssy/price/entity/Season.java
+END
+QuotesReport.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/apps/!svn/ver/893/price/src/com/ssy/price/entity/QuotesReport.java
+END
+Supply.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/apps/!svn/ver/893/price/src/com/ssy/price/entity/Supply.java
+END
+SupplyProduct.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/apps/!svn/ver/893/price/src/com/ssy/price/entity/SupplyProduct.java
+END

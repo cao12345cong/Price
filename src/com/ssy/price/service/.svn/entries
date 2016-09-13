@@ -1,0 +1,79 @@
+8
+
+dir
+903
+http://www.ytrain.com:8234/svn/apps/price/src/com/ssy/price/service
+http://www.ytrain.com:8234/svn/apps
+
+
+
+2013-07-26T05:04:06.057375Z
+901
+cofey
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+a811b906-dcbf-3845-8d18-c4ea4e4e8829
+
+impl
+dir
+
+QuotesService.java
+file
+
+
+
+
+2013-07-26T06:23:18.000000Z
+c591e8bdeaf2754db4cc6e9865c0043f
+2013-07-26T04:56:09.088625Z
+898
+cofey
+
+ForecastService.java
+file
+
+
+
+
+2013-07-26T06:23:18.000000Z
+c27f5379c1a75e5b55dacb03a9786963
+2013-07-26T04:56:09.088625Z
+898
+cofey
+
+SeasonService.java
+file
+
+
+
+
+2013-07-26T06:23:18.000000Z
+b67578e282146016058b67169542bcfb
+2013-07-26T05:04:06.057375Z
+901
+cofey
+
+SupplyService.java
+file
+
+
+
+
+2013-07-26T06:23:18.000000Z
+51676de1645e4b7a2007c44c7b2abd86
+2013-07-26T04:56:09.088625Z
+898
+cofey
+

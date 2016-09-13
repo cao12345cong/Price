@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/apps/!svn/ver/901/price/src/com/ssy/price/service/impl
+END
+SupplyServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/apps/!svn/ver/898/price/src/com/ssy/price/service/impl/SupplyServiceImpl.java
+END
+QuotesServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/apps/!svn/ver/898/price/src/com/ssy/price/service/impl/QuotesServiceImpl.java
+END
+ForecastServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/apps/!svn/ver/898/price/src/com/ssy/price/service/impl/ForecastServiceImpl.java
+END
+SeasonService.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/apps/!svn/ver/901/price/src/com/ssy/price/service/impl/SeasonService.java
+END

@@ -1,0 +1,120 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="#ffffff"
+    tools:context=".LoginActivity" 
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:id="@+id/rlTop"
+        android:layout_width="fill_parent"
+        android:layout_height="60dp"
+        android:layout_marginTop="-1dp"
+        android:background="#000000" >
+
+        <ImageView
+            android:id="@+id/ivImage"
+            android:layout_width="fill_parent"
+            android:layout_height="60dp"
+            android:background="@drawable/toubu" />
+
+        <ImageView
+            android:id="@+id/ivBack"
+            android:layout_width="70dp"
+            android:layout_height="36dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="12dp"
+            android:background="@drawable/fanhui" />
+
+        <TextView
+            android:id="@+id/tvTitle"
+            android:layout_width="fill_parent"
+            android:layout_height="60dp"
+            android:gravity="center"
+            android:text="@string/history"
+            android:textColor="#FFFFFF"
+            android:textSize="22sp"
+            android:textStyle="bold" />
+    </RelativeLayout>
+
+    <LinearLayout
+        android:id="@+id/llMenber"
+        android:layout_width="fill_parent"
+        android:layout_height="48dp"
+        android:background="#FFEEEEEE">
+        <ImageView 
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="10dp"
+            android:src="@drawable/history_past_hour"/>
+        <TextView 
+            android:layout_width="0dp"
+            android:layout_height="48dp"
+            android:layout_weight="1.0"
+            android:layout_marginLeft="10dp"
+            android:text="@string/past_one_hour"
+            style="@style/font_18"
+            android:gravity="center_vertical"/>
+        
+    </LinearLayout>
+	<ListView 
+	    android:layout_width="fill_parent"
+	    android:layout_height="wrap_content">
+	    
+	</ListView>
+	
+	<LinearLayout
+        android:id="@+id/llMenber"
+        android:layout_width="fill_parent"
+        android:layout_height="48dp"
+        android:background="#FFEEEEEE">
+        <ImageView 
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="10dp"
+            android:src="@drawable/history_past_hour"/>
+        <TextView 
+            android:layout_width="0dp"
+            android:layout_height="48dp"
+            android:layout_weight="1.0"
+            android:layout_marginLeft="10dp"
+            android:text="@string/past_one_hour"
+            style="@style/font_18"
+            android:gravity="center_vertical"/>
+        
+    </LinearLayout>
+	<ListView 
+	    android:layout_width="fill_parent"
+	    android:layout_height="wrap_content">
+	    
+	</ListView>
+	<LinearLayout
+        android:id="@+id/llMenber"
+        android:layout_width="fill_parent"
+        android:layout_height="48dp"
+        android:background="#FFEEEEEE">
+        <ImageView 
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="10dp"
+            android:src="@drawable/history_past_hour"/>
+        <TextView 
+            android:layout_width="0dp"
+            android:layout_height="48dp"
+            android:layout_weight="1.0"
+            android:layout_marginLeft="10dp"
+            android:text="@string/past_one_hour"
+            style="@style/font_18"
+            android:gravity="center_vertical"/>
+        
+    </LinearLayout>
+	<ListView 
+	    android:layout_width="fill_parent"
+	    android:layout_height="wrap_content">
+	    
+	</ListView>
+</LinearLayout>

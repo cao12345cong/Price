@@ -1,0 +1,100 @@
+8
+
+dir
+903
+http://www.ytrain.com:8234/svn/apps/price/bin
+http://www.ytrain.com:8234/svn/apps
+
+
+
+2013-07-26T06:19:28.791750Z
+902
+caocong
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+a811b906-dcbf-3845-8d18-c4ea4e4e8829
+
+dexedLibs
+dir
+
+AndroidManifest.xml
+file
+
+
+
+
+2013-07-26T06:23:24.000000Z
+ab23545670d82d52f2c63bcff417641b
+2013-07-26T06:19:28.791750Z
+902
+caocong
+
+resources.ap_
+file
+
+
+
+
+2013-07-26T06:23:24.000000Z
+1183405435506a7d2b4456dea03edd83
+2013-07-26T06:19:28.791750Z
+902
+caocong
+has-props
+
+res
+dir
+
+jarlist.cache
+file
+
+
+
+
+2013-07-26T06:23:24.000000Z
+1a4e54903cfe5b5bf05e60ce40d06671
+2013-07-26T03:52:40.041750Z
+896
+caocong
+
+classes.dex
+file
+
+
+
+
+2013-07-26T06:23:24.000000Z
+8ae561f1f4755bec71e240a512be2651
+2013-07-26T06:19:28.791750Z
+902
+caocong
+has-props
+
+price.apk
+file
+
+
+
+
+2013-07-26T06:23:24.000000Z
+f57f448520b1488e26e52a7f88da1b93
+2013-07-26T06:19:28.791750Z
+902
+caocong
+has-props
+
+classes
+dir
+

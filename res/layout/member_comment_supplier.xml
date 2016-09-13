@@ -1,0 +1,101 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="#ffffff"
+    android:orientation="vertical"
+     >
+	<RelativeLayout
+        android:id="@+id/rlTop"
+        android:layout_width="fill_parent"
+        android:layout_height="60dp"
+        android:layout_marginTop="-1dp"
+        android:background="#000000" >
+
+        <ImageView
+            android:id="@+id/ivImage"
+            android:layout_width="fill_parent"
+            android:layout_height="60dp"
+            android:background="@drawable/toubu" />
+
+        <ImageView
+            android:id="@+id/ivBack"
+            android:layout_width="70dp"
+            android:layout_height="36dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="12dp"
+            android:background="@drawable/fanhui" />
+
+        <TextView
+            android:id="@+id/tvTitle"
+            android:layout_width="fill_parent"
+            android:layout_height="60dp"
+            android:gravity="center"
+            android:text="@string/good_supplier"
+            android:textColor="#FFFFFF"
+            android:textSize="22sp"
+            android:textStyle="bold" />
+    </RelativeLayout>
+    <LinearLayout 
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="16dp"
+        android:layout_marginRight="16dp"
+        android:orientation="vertical">
+        <TextView 
+           android:layout_width="fill_parent"
+           android:layout_height="48dp" 
+           android:text="绿源农业开发有限公司"
+           style="@style/font_18"
+           android:gravity="center_vertical"/>
+        <LinearLayout 
+           android:layout_width="fill_parent"
+           android:layout_height="wrap_content" 
+           android:gravity="center_vertical">
+           <TextView 
+           android:layout_width="wrap_content"
+           android:layout_height="48dp" 
+           android:textSize="16sp"
+           android:textColor="@color/font_light_grey"
+           android:text="优质供应商 2013-07-22"
+           android:gravity="center_vertical"/>
+           <ImageView 
+               android:layout_width="24dp"
+               android:layout_height="24dp"
+               android:src="@drawable/ic_comment"
+               android:scaleType="fitCenter"/>
+           <TextView 
+           android:layout_width="wrap_content"
+           android:layout_height="48dp" 
+           android:text="2980"
+           android:textSize="16sp"
+           android:textColor="@color/font_light_grey"
+           android:gravity="center_vertical"/>
+        </LinearLayout>
+    </LinearLayout>
+    <LinearLayout 
+           android:layout_width="fill_parent"
+           android:layout_height="wrap_content"
+           android:background="@color/bg_light_greyish_white" 
+           android:gravity="center_vertical">
+           <TextView 
+           android:layout_width="wrap_content"
+           android:layout_height="48dp" 
+           android:textSize="16sp"
+           android:layout_marginLeft="16dp"
+           android:text="最新评价"
+           style="@style/font_16"
+           android:gravity="center_vertical"/>
+          
+    </LinearLayout>
+	<ListView 
+	    android:layout_width="fill_parent"
+	    android:layout_height="0dp"
+	    android:paddingLeft="16dp"
+	    android:paddingRight="16dp"
+	    android:layout_weight="1.0">
+	    
+	</ListView>
+    
+    
+
+</LinearLayout>

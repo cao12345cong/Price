@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	
+    <string name="app_name">移动菜价</string>
+    <string name="menu_exit">退出</string>
+    <string name="member_top_title">会员中心</string>
+    <string name="member_login">登录</string>
+    
+	<!-- 模块名 -->
+	<string name="quotes">价格行情</string>
+	<string name="analysis">分析预测</string>
+	<string name="supplier">优质供应商</string>
+	<string name="seasonal">应季农产品</string>
+	<string name="security">食品安全</string>
+	<string name="ingredients">食材食谱</string>
+	<string name="my_collection">我的收藏</string>
+	<string name="my_assess">我的评价</string>
+	<string name="history">历史浏览</string>
+	<string name="my_comment">我的留言</string>
+	<string name="two_dimension_code">二维码扫描</string>
+	<string name="user_feedback">用户反馈</string>
+	
+	<!--用户中心  -->
+	<string name="login">登&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;录</string>
+	<string name="account">账&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;号</string>
+	<string name="password">密&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;码</string>
+	<string name="affirm_password">确认密码</string>
+	<string name="auto_login">自动登录</string>
+	<string name="finde_password">找回密码</string>
+	<string name="member_center">会员中心</string>
+	<string name="login_mobile">手机号码</string>
+	<string name="login_account">普通账号</string>
+	<!--用户中心  -->
+	<string name="change_password">修改密码</string>
+	<string name="change_info">修改资料</string>
+	<string name="my_child_user">我的子账号</string>
+	<string name="check_member">测试账号</string>
+	<string name="open_vip_member">开通VIP会员</string>
+	<string name="logout_current_user">退出当前账号</string>
+	
+	<!--修改资料  -->
+	<string name="photo">头像</string>
+	<string name="nickname">昵称</string>
+	<string name="company">公司名称</string>
+	<string name="adress">地址</string>
+	<string name="contact_people">联系人</string>
+	<string name="contact_tel">联系电话</string>
+	<string name="mobile">手机号码</string>
+	<string name="is_open_info">是否公开以上信息</string>
+	<string name="affirm">确认</string>
+	<!--管理子账号 -->
+	<string name="manager_child_account">管理子账号</string>
+	<!--确认购买内容 -->
+	<string name="affirm_buy">确认购买内容</string>
+	<string name="quick_payment">快捷支付</string>
+	<string name="bank_transfer">银行转账</string>
+	<string name="app_store">app_store</string>
+	<string name="tel_charge_payment">话费预扣</string>
+	<!-- 登录 -->
+	<string name="free_register">免费注册</string>
+	<!-- 历史浏览记录 -->
+	<string name="past_one_hour">过去一小时</string>
+	<string name="past_one_week">过去一周</string>
+	<string name="past_more_early">更早</string>
+	<!-- 我的留言 -->
+	<string name="good_supplier">优质供应商</string>
+</resources>

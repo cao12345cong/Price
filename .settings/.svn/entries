@@ -1,0 +1,40 @@
+8
+
+dir
+903
+http://www.ytrain.com:8234/svn/apps/price/.settings
+http://www.ytrain.com:8234/svn/apps
+
+
+
+2013-07-25T05:44:56.291750Z
+885
+caocong
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+a811b906-dcbf-3845-8d18-c4ea4e4e8829
+
+org.eclipse.jdt.core.prefs
+file
+
+
+
+
+2013-07-26T06:23:28.000000Z
+dedfa1639b1ef42bffad86ae405d2396
+2013-07-25T05:44:56.291750Z
+885
+caocong
+

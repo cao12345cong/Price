@@ -1,0 +1,40 @@
+8
+
+dir
+903
+http://www.ytrain.com:8234/svn/apps/price/src/com/ssy/price/commons/service
+http://www.ytrain.com:8234/svn/apps
+
+
+
+2013-07-26T04:56:09.088625Z
+898
+cofey
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+a811b906-dcbf-3845-8d18-c4ea4e4e8829
+
+BaseService.java
+file
+
+
+
+
+2013-07-26T06:23:18.000000Z
+efbe21a8f053ed68bf70947c7ea4c164
+2013-07-26T04:56:09.088625Z
+898
+cofey
+

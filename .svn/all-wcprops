@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 28
+/svn/apps/!svn/ver/903/price
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/apps/!svn/ver/902/price/.classpath
+END
+project.properties
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/apps/!svn/ver/882/price/project.properties
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/apps/!svn/ver/882/price/.project
+END
+proguard-project.txt
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/apps/!svn/ver/882/price/proguard-project.txt
+END
+AndroidManifest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/apps/!svn/ver/902/price/AndroidManifest.xml
+END

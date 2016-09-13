@@ -1,0 +1,109 @@
+8
+
+dir
+903
+http://www.ytrain.com:8234/svn/apps/price
+http://www.ytrain.com:8234/svn/apps
+
+
+
+2013-07-26T06:20:10.026125Z
+903
+caocong
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+a811b906-dcbf-3845-8d18-c4ea4e4e8829
+
+.classpath
+file
+
+
+
+
+2013-07-26T06:23:18.000000Z
+7b9392bb182ff6cedd0b3a5b66b1a4ac
+2013-07-26T06:19:28.791750Z
+902
+caocong
+
+project.properties
+file
+
+
+
+
+2013-07-26T06:23:18.000000Z
+65ffab6e107a6c117db8528723a302b9
+2013-07-25T01:14:02.073000Z
+882
+cofey
+
+assets
+dir
+
+.project
+file
+
+
+
+
+2013-07-26T06:23:18.000000Z
+d642f4878ea91060e9508ffc48e85859
+2013-07-25T01:14:02.073000Z
+882
+cofey
+
+proguard-project.txt
+file
+
+
+
+
+2013-07-26T06:23:18.000000Z
+18bfe77c342b4698f1cef19cf8d918e2
+2013-07-25T01:14:02.073000Z
+882
+cofey
+
+AndroidManifest.xml
+file
+
+
+
+
+2013-07-26T06:23:18.000000Z
+ab23545670d82d52f2c63bcff417641b
+2013-07-26T06:19:28.791750Z
+902
+caocong
+
+src
+dir
+
+bin
+dir
+
+gen
+dir
+
+libs
+dir
+
+res
+dir
+
+.settings
+dir
+

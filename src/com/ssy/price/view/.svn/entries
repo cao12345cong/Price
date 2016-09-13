@@ -1,0 +1,61 @@
+8
+
+dir
+903
+http://www.ytrain.com:8234/svn/apps/price/src/com/ssy/price/view
+http://www.ytrain.com:8234/svn/apps
+
+
+
+2013-07-26T06:20:10.026125Z
+903
+caocong
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+a811b906-dcbf-3845-8d18-c4ea4e4e8829
+
+quotes
+dir
+
+Main.java
+file
+
+
+
+
+2013-07-26T06:23:18.000000Z
+9ea477dc0a38a8b234a0494b3be284d0
+2013-07-26T06:19:28.791750Z
+902
+caocong
+
+forecast
+dir
+
+member
+dir
+
+security
+dir
+
+season
+dir
+
+ingredients
+dir
+
+supply
+dir
+
